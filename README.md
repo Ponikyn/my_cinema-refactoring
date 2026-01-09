@@ -3,6 +3,7 @@
 git clone <ссылка-на-репозиторий>
 cd my_cinema-refactoring
 
+
 2️ Установить зависимости
 npm install
 
